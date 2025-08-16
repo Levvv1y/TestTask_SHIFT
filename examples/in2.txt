@@ -1,0 +1,7 @@
+Another line
+-1000
+
+Lorem ipsum
+9876543210
+
+End of file
